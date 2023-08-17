@@ -1,1 +1,1 @@
-Hello World MFS# frontend-ta-academy
+Hello World MFS ёпта# frontend-ta-academy
